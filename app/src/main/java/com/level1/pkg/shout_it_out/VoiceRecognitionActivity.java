@@ -2,7 +2,6 @@ package com.level1.pkg.shout_it_out;
 
         import java.util.ArrayList;
         import java.util.Random;
-
         import android.content.Context;
         import android.os.Handler;
         import android.speech.RecognitionListener;
@@ -16,16 +15,13 @@ package com.level1.pkg.shout_it_out;
         import android.widget.ImageView;
         import android.widget.ProgressBar;
         import android.widget.TextView;
-
         import android.media.MediaPlayer;
-
 
 public class VoiceRecognitionActivity extends Activity implements
         RecognitionListener {
 
     MediaPlayer bgMusic;
     MediaPlayer fxMusic;
-
 
     final Random rnd = new Random();
     int randomNum = 0;
