@@ -1,11 +1,3 @@
-//http://www.truiton.com/2014/06/android-speech-recognition-without-dialog-custom-activity/
-//random image display..
-//https://stackoverflow.com/questions/20549705/how-to-display-random-images-on-image-view
-//music..
-//https://www.youtube.com/watch?v=RZIobuv4XLk
-//Illustrator exporting different size images
-//https://graphicdesign.stackexchange.com/questions/46825/illustrator-artboard-dimensions-for-mobile-ui-design
-
 package com.level1.pkg.shout_it_out;
 
         import java.util.ArrayList;
