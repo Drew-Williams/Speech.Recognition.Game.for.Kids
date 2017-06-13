@@ -1,3 +1,5 @@
+//Can u read this ideot??
+
 package com.level1.pkg.shout_it_out;
 
 import android.content.Intent;
