@@ -1,5 +1,3 @@
-//Can u read this ideot??
-//Wat about thisss..
 
 package com.level1.pkg.shout_it_out;
 
